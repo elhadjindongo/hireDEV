@@ -8,3 +8,6 @@ The platform is organized in :
 
 3. A frontend with Angular
 In this project, I try to apply best practice in Spring boot java and Angular
+   These aure the repositories :
+   https://github.com/elhadjindongo/hireDEV-Backend.git
+   https://github.com/elhadjindongo/hireDEV-Frontend.git
